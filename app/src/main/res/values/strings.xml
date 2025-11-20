@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Clash Royale Info</string>
+
+    <!-- Cards -->
+    <string name="zappies_name">Zappies</string>
+    <string name="zappies_description">Spawns a pack of miniature Zap machines. Who controls them...? Only the Master Builder knows.</string>
+    <string name="minions_name">Minions</string>
+    <string name="minions_description">Three fast, unarmored flying attackers. Roses are red, minions are blue, they can fly, and will crush you!</string>
+    <string name="golem_name">Golem</string>
+    <string name="golem_description">Slow but durable, only attacks buildings. When destroyed, explosively splits into two Golemites and deals area damage!</string>
+    <string name="mini_pekka_name">Mini Pekka</string>
+    <string name="mini_pekka_description">The Arena is a certified butterfly-free zone. No distractions for P.E.K.K.A, only destruction.</string>
+    <string name="vines_name">Vines</string>
+    <string name="vines_description">Entangle the three highest hitpoint troops or buildings in the area, stunning them while doing damage. If the troop is in the air, they\'ll ground them. Don\'t worry, they\'ll grow on you!</string>
+
+
+
+
+
+    <!-- Elixirs -->
+    <string name="one_elixir">1</string>
+    <string name="two_elixir">2</string>
+    <string name="three_elixir">3</string>
+    <string name="four_elixir">4</string>
+    <string name="five_elixir">5</string>
+    <string name="six_elixir">6</string>
+    <string name="seven_elixir">7</string>
+    <string name="eight_elixir">8</string>
+    <string name="nine_elixir">9</string>
+
+    <!-- Categories -->
+    <string name="common">Common</string>
+    <string name="special">Special</string>
+    <string name="epic">Epic</string>
+    <string name="legendary">Legendary</string>
+    <string name="hero">Hero</string>
+    
+    <!-- Type -->
+    <string name="troop">Troop</string>
+    <string name="structure">Structure</string>
+    <string name="spell">Spell</string>
+</resources>
